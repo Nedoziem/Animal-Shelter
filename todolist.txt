@@ -1,0 +1,41 @@
+TO DO:
+remove medication from pets 
+login encryption
+allow managers to create new managers
+implement submit interest form for fostering
+scroll
+
+implement when the exit button and home screen button change states (true or false)
+  which means:
+  need to implement exit button and home screen button in JScreen
+
+SARA:
+pet pictures
+formatting a new pet toString
+set
+add login error message
+remove foster parents
+do not accept applications unless the pet ID is valid/matches one in the system
+delete all self references in add and delete pet and employee methods
+make sure two fosters can't foster the same pet
+fix menu loop
+
+4412 induces logout bug
+
+DETAILS:
+add date to progress report
+
+
+KAMILA:
+Try to implement loginListener in the LoginListener class
+
+
+NICOLE:
+
+
+DONE:
+Set active manager so we can call manager methods
+make the initial menu a loop
+progress reports no longer stored in the object; now they are a separate txt file
+implement radio button starter screen in jscreen
+scroll bar

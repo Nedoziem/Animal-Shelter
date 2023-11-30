@@ -1,0 +1,8 @@
+Lucy 3 Cat Tabby Antibiotics 0 F
+Remy 2 Dog Chihuahua Antiparasitics 1 F
+Billie 5 Cat Tuxedo Antiparasitics 4 F
+Binn 1 Cat Siamese Antifungals 5 F
+Cookie 5 Cat Tabby Antibiotics 6 F
+Ernie 1 Cat Persian Antiparasitics 7 F
+Kiki 1 Cat Persian Antiparasitics 8 NF
+Rata 2 Dog Chihuahua Antibiotics 9 NF
